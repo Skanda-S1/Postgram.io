@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center"> Postgram is a web apllication which provides a interactive user interface, enabling users to engage with posts through likes, comments, and all posts shared will be displayed on home page.
+<p align="center"> Postgram is a web application which provides a interactive user interface, enabling users to engage with posts through likes, comments, and all posts shared will be displayed on home page.
     <br> 
 </p>
 
