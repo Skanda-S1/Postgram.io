@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="frontend/public/logo512.png" alt="Project logo"></a>
+ <img width=200px height=200px src="[frontend/public/logo512.png](https://cdn0.iconfinder.com/data/icons/social-network-8/50/47-512.png)" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Postgram</h3>
