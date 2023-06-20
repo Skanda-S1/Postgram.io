@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Postgram.io/static/css/main.7ecd6ed6.css",
+    "main.js": "/Postgram.io/static/js/main.155d8d9a.js",
+    "static/js/787.cda612ba.chunk.js": "/Postgram.io/static/js/787.cda612ba.chunk.js",
+    "static/media/logo.svg": "/Postgram.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Postgram.io/index.html",
+    "main.7ecd6ed6.css.map": "/Postgram.io/static/css/main.7ecd6ed6.css.map",
+    "main.155d8d9a.js.map": "/Postgram.io/static/js/main.155d8d9a.js.map",
+    "787.cda612ba.chunk.js.map": "/Postgram.io/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ecd6ed6.css",
+    "static/js/main.155d8d9a.js"
+  ]
+}
